@@ -19,7 +19,7 @@ public class StudentPersonal {
 	@Column(name = "middlename")
 	private String middleName;
 	
-	@Column(name = "lastnam")
+	@Column(name = "lastname")
 	private String lastName;
 	
 	@Column(name = "address_id")
